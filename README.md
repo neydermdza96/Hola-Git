@@ -1,3 +1,5 @@
 Hola Git 
 print( Con el video tutorial de mouredev se aprenden los comandos mas usados en git y github)
-"vamos a seguirle dando para aprender mas y mas"
+"vamos a seguirle dando para aprender mas y mas" 
+
+¡ TUTORIAL PARA LA CLASE DE DESARROLO DE APLICACIONES MOVILES 2 !
